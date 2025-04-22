@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1050484442286",
+    "project_id": "quiz-di-giostra",
+    "storage_bucket": "quiz-di-giostra.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050484442286:android:e0286d2f6ed2ad2f86d93f",
+        "android_client_info": {
+          "package_name": "com.tuonome.quizdigjostra.quiz_di_giostra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050484442286-98edjef4s8qg70qufqf0cl9karg2ebne.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tuonome.quizdigjostra.quiz_di_giostra",
+            "certificate_hash": "20427898366718c595a6f1066c3d94914388a617"
+          }
+        },
+        {
+          "client_id": "1050484442286-pfcr7l7mpvfmjsjvj4an1t3oghitfplb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVx_qipFRku2At97E5ufhkp0TBetFeYmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050484442286-pfcr7l7mpvfmjsjvj4an1t3oghitfplb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
